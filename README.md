@@ -1,5 +1,5 @@
 # vagrant-lab
-Neste artigo vamos aprender a criar um Serviod Web usando como base o Vagrant e o Virtual Box.
+Neste artigo vamos aprender a criar um Servidor Web usando como base o Vagrant e o Virtual Box.
 
 1- É necessário baixar o Vagrant, Virtualbox, Git e Vscode nos links abaixo:
 A) Vagrant (https://www.vagrantup.com/downloads);
