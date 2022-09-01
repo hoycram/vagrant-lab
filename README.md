@@ -79,5 +79,4 @@ Obs: Na pasta em que se encontra os arquivos vagranfile e provision.sh, você de
 os arquivos CSS, JavaScript e HTML. 
 
 Espero ter contribuído com o seu conhecimento. 
-Agradecimentos ao Professor: Glaucio Guerra
-Perfil dele na Udemy: https://www.udemy.com/user/glaucio-guerra/
+
